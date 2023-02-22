@@ -1,7 +1,7 @@
 //função principal 
 
 function setup() {
-  createCanvas(500, 400);
+  createCanvas(1000, 800);
   somDaTrilha.loop();
 }
 
